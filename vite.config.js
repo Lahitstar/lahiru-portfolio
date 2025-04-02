@@ -7,6 +7,7 @@ export default defineConfig({
   plugins: [react()],
   optimizeDeps: {
     include: ['@react-three/fiber', '@react-three/drei'],
+    include: ['react-parallax-tilt'],
   },
 
   
