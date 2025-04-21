@@ -26,6 +26,7 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import PB from "./company/PB.png";
+import ceb from "./company/ceb.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -57,6 +58,7 @@ export {
   shopify,
   starbucks,
   PB,
+  ceb,
   tesla,
   carrent,
   jobit,
