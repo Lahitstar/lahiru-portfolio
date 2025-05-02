@@ -31,6 +31,8 @@ import ceb from "./company/ceb.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import BoardingHub from "./BoardingHub.jpg";
+import AcademicAdvisor from "./AcademicAdvisor.jpg";
 
 export {
   logo,
@@ -63,4 +65,6 @@ export {
   carrent,
   jobit,
   tripguide,
+  BoardingHub,
+  AcademicAdvisor
 };

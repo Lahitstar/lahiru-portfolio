@@ -22,6 +22,8 @@ import {
     tesla,
     shopify,
     carrent,
+    BoardingHub,
+    AcademicAdvisor,
     jobit,
     tripguide,
     threejs,
@@ -230,7 +232,7 @@ import {
           color: "dark-green-text-gradient",
         },
       ],
-      image: carrent,
+      image: BoardingHub,
       source_code_link: "https://github.com/BoardngHub-Project",
     },
     {
@@ -251,7 +253,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
+      image: AcademicAdvisor,
       source_code_link: "https://github.com/KanchanaT98/Academic-Advisor-Project---FrontEnd",
     },
     // {
